@@ -1,0 +1,7 @@
+# python 3.9.0
+numpy==1.26.4
+torch==2.3.0
+torchvision==0.18.0
+torchattacks==3.5.1
+matplotlib==3.6.2
+Pillow==10.3.0
