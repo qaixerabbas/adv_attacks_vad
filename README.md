@@ -36,8 +36,8 @@ Recent research has shown that deep neural networks, especially those used in vi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/video-anomaly-adversarial-attacks.git
-cd video-anomaly-adversarial-attacks
+git clone https://github.com/qaixerabbas/adv_attacks_vad.git
+cd adv_attacks_vad
 ```
 
 ### 2. Install Dependencies
@@ -46,7 +46,7 @@ cd video-anomaly-adversarial-attacks
 pip install -r requirements.txt
 ```
 
-> Optional: For vision-language filtering (e.g., using TinyLLaVA or Moondream), install from `moondream_reqs.txt`.
+> Optional: For vision-language filtering (Moondream (currently adopted) or you can use TinyLLaVA), install from `moondream_reqs.txt`.
 
 ---
 
