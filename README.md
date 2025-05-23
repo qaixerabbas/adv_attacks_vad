@@ -82,7 +82,7 @@ If you use this code in your research, please cite (will update this once paper 
   author = {Qaiser Abbas},
   title = {Adversarial Attacks on Video Anomaly Detection Models in AIoT},
   year = {2024},
-  url = {https://github.com/qaiserabbas/video-anomaly-adversarial-attacks}
+  url = {https://github.com/qaiserabbas/adv_attacks_vad}
 }
 ```
 
