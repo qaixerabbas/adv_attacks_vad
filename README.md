@@ -75,14 +75,16 @@ This code is tested on the **UCF Crime** dataset, a large-scale real-world surve
 
 ## 📝 Citation
 
-If you use this code in your research, please cite (will update this once paper is published online):
+If you use this code in your research, please cite:
 
 ```bibtex
-@misc{videoaianomaly2024,
-  author = {Qaiser Abbas},
-  title = {Adversarial Attacks on Video Anomaly Detection Models in AIoT},
-  year = {2024},
-  url = {https://github.com/qaiserabbas/adv_attacks_vad}
+@article{hina2025adversarial,
+  title={Adversarial attacks on artificial Intelligence of Things-based operational technologies in theme parks},
+  author={Hina, Sadaf and Abbas, Qaiser and Ahmed, Kashan},
+  journal={Internet of Things},
+  pages={101654},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
